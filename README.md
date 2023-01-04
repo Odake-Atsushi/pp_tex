@@ -7,3 +7,5 @@ texliveから
 ptex2pdf, pdfcrop, dvisvgm
 
 をインストールしておく
+
+Windows専用
